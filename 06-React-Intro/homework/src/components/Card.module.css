@@ -1,0 +1,38 @@
+
+.total{
+    
+    justify-items: center;
+}
+.temperatura{
+    
+    display: flex;
+    background-color: rgba(131, 186, 204, 0.286);
+    width: 220px;
+    border: solid 1.3px rgb(128, 124, 124);
+    border-radius: 15px;
+    justify-content: space-between;
+    color:rgb(250, 248, 248);
+    font-weight: 700;
+    padding-top: 14px;
+    padding-left: 14px;
+    
+}
+.nombre{
+    display: flex;
+    justify-content: center;
+    color: rgb(249, 251, 251);
+    font-size: xx-large;
+    font-weight: bolder;
+    font-weight: 900;
+}
+.button{
+    float:right;
+    color:blue
+    
+}
+
+.button:hover{
+    background-color: rgb(69, 74, 74);
+    color:rgb(230, 233, 234)
+
+}
